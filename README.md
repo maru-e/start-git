@@ -1,2 +1,2 @@
-# startGit
+# start-git
 study about git
